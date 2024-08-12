@@ -1,0 +1,79 @@
+
+---Downloaded files---
+The import files for: Infotek were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://ll-corporate.test
+Data file = C:\laragon\www\ll-corporate\wp-content\plugins\infotek-core/demo-import/demo-data/content.xml
+Widget file = C:\laragon\www\ll-corporate\wp-content\plugins\infotek-core/demo-import/demo-data/widgets.wie
+Customizer file = C:\laragon\www\ll-corporate\wp-content\plugins\infotek-core/demo-import/demo-data/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Infotek Post Search - Search - Imported
+Infotek:  Category - Category - Imported
+Infotek: Recent Posts with Thumbnails - Recent Posts - Imported
+Infotek: Tags - Tags - Imported
+
+Footer Widget Area : 
+
+Menu - Quick Links - Imported
+
+Footer Widget Area Two : 
+
+Menu - IT Solution - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

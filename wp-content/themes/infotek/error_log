@@ -1,0 +1,4 @@
+[11-May-2024 22:19:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/gramenth/public_html/wp/infotek/wp-content/themes/infotek/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/gramenth/public_html/wp/infotek/wp-content/themes/infotek/index.php on line 15
