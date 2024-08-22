@@ -28,16 +28,16 @@ $back_top_icon = cs_get_option('back_top_icon');
             $footer_2_contact_us = cs_get_option('footer_2_contact_us');
             if (!empty($footer_2_contact_us)) {                
                 foreach ($footer_2_contact_us as $contact_info) {
-                    echo '<div class="contact-info-items wow fadeInUp" data-wow-delay=".3s">';
+                    echo '<div class="contact-info-items wow fadeInUp mx-2" data-wow-delay=".3s">';
                     echo '<div class="icon">';
                     echo '<div class="round-image">';
                     echo '<img src="' . esc_url($contact_info['footer_2_contact_shape']['url']) . '" alt="">';
                     echo '</div>';                  
-                    echo '<div class="icon-image">';
+                    echo '<div class="icon-image mx-3">';
                     echo '<img src="' . esc_url($contact_info['footer_2_contact_icon']['url']) . '" alt="">';
                     echo '</div>';                  
                     echo '</div>';
-                    echo '<div class="content">';
+                    echo '<div class="content text-lowercase">';
                     echo '<p>' . esc_html($contact_info['footer_2_contact_title']) . '</p>';
                     echo '<h3>';
                     echo '<a href="' . esc_url($contact_info['footer_2_contact_url']) . '">' . esc_html($contact_info['footer_2_contact_text']) . '</a>';
@@ -60,8 +60,8 @@ $back_top_icon = cs_get_option('back_top_icon');
                 <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                     <div class="single-footer-widget">
                         <?php if (!empty($footer_two_logo)) { ?>
-                        <div class="widget-head">
-                            <a href="<?php echo esc_url(home_url('/')) ?>"><img src="<?php echo esc_url($footer_two_logo['url']); ?>" alt="footer-logo"></a>
+                        <div class="widget-head" style="display:none;">
+                            <a href="<?php echo esc_url(home_url('/')) ?>" target="_blank"><img src="<?php echo esc_url($footer_two_logo['url']); ?>" alt="footer-logo"></a>
                         </div>
                         <?php } ?>
                         <div class="footer-content">

@@ -883,7 +883,7 @@ if (class_exists('CSF')) {
                 'id' => 'footer_one_text',
                 'type' => 'textarea',
                 'title' => esc_html__('Paragraph Text Here', 'infotek'),
-                'default' => esc_html__('Phasellus ultricies aliquam volutpat ullamcorper laoreet neque, a lacinia curabitur lacinia mollis', 'infotek')
+                'default' => esc_html__('', 'infotek')
             ),
             array(
                 'id'        => 'footer_1_socials',

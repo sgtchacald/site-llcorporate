@@ -40,15 +40,16 @@ $team_skills = isset($infotek_meta['team-skill']) && !empty($infotek_meta['team-
 				</div>
 			</div>
             <div class="col-lg-7 align-self-center ps-xl-5">
+
                 <h3 class="mb-2"><?php echo esc_html(get_the_title()); ?></h3>
                 <span class="designation"><?php echo esc_html($team_single_meta_data['designation']); ?></span>
-				<div class="details mt-4 pt-3">
-                    <h4><?php echo esc_html('About Me', 'infotek'); ?></h4>           
+
+                <div class="details mt-4 pt-3">
                     <ul class="social-media style-base mt-4 pt-3">
                         <?php
                         if (!empty($social_icons)) {
                             foreach ($social_icons as $item) {
-                                printf('<li><a href="%1$s"><i class="%2$s"></i></a></li>', $item['url'], $item['icon']);
+                                printf('<li><a href="%1$s" target="_blank"><i class="%2$s"></i></a></li>', $item['url'], $item['icon']);
                             }
                         }
                         ?>
