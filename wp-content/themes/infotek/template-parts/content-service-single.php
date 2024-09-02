@@ -24,7 +24,7 @@
 
 <article id="post-<?php the_ID(); ?>" <?php post_class('service-details-item'); ?>>
     <div class="row">
-        <div class="col-lg-8 order-lg-last">
+        <div class="col-lg-12 order-lg-last">
             <div class="entry-content">
                 <?php
                     the_content();

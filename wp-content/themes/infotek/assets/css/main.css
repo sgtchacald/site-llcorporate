@@ -27,7 +27,7 @@
   font-weight: 600;
   padding: 24px 40px;
   border-radius: 0;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   position: relative;
@@ -118,7 +118,7 @@
   display: inline-block;
   font-weight: 600;
   color: var(--text);
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
 }
 .theme-btn-2 i {
   margin-left: 10px;
@@ -173,7 +173,7 @@ h6 {
   margin: 0px;
   padding: 0;
   color: var(--header);
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   transition: all 0.4s ease-in-out;
 }
 
@@ -1303,7 +1303,7 @@ span {
 .contact-wrapper-2 .contact-content .contact-form-items .form-clt span {
   color: var(--header);
   font-weight: 600;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
 }
 .contact-wrapper-2 .contact-content .contact-form-items .form-clt input, .contact-wrapper-2 .contact-content .contact-form-items .form-clt textarea {
   border: 1px solid var(--border);
@@ -1628,7 +1628,7 @@ span {
   box-shadow: none;
   background-color: var(--bg);
   padding: 25px 30px 0;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   font-size: 20px;
   border: 1px solid var(--border);
   border: 1px solid transparent;
@@ -2694,7 +2694,7 @@ span {
 .header-top-wrapper .top-right .flag-wrap .nice-select span {
   font-size: 16px;
   font-weight: 500;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   color: var(--white);
 }
 .header-top-wrapper .top-right .flag-wrap .flag {
@@ -2770,7 +2770,7 @@ span {
   padding: 20px 0;
   text-align: left;
   position: relative;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   transition: all 0.4s ease-in-out;
 }
 .header-main .main-menu ul li a:hover {
@@ -3423,7 +3423,7 @@ span {
 .offcanvas__wrapper .offcanvas__content .offcanvas__contact ul li {
   font-size: 16px;
   font-weight: 600;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
 }
 .offcanvas__wrapper .offcanvas__content .offcanvas__contact ul li a {
   color: var(--text);
@@ -3567,7 +3567,7 @@ span {
 }
 .breadcrumb-wrapper .page-heading .breadcrumb-items li {
   color: var(--white);
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   font-weight: 600;
 }
 .breadcrumb-wrapper .page-heading .breadcrumb-items li a {
@@ -3771,7 +3771,7 @@ span {
 .nice-select span {
   font-size: 16px;
   color: var(--text);
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
 }
 
 .nice-select .current {
@@ -3795,7 +3795,7 @@ span {
   background: var(--bg);
   margin-top: 16px;
   width: 100%;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   color: var(--text);
 }
 
@@ -3803,7 +3803,7 @@ span {
   background: var(--bg);
   outline: none;
   color: var(--text);
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   font-weight: 400;
   font-size: 16px;
   border: none;
@@ -4680,7 +4680,7 @@ span {
   height: 100px;
   line-height: 90px;
   font-weight: 700;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   color: var(--white);
 }
 .text-slider:not(:last-child) {
@@ -4711,7 +4711,7 @@ span {
   transition: animation 0.2s ease-out;
 }
 .marquee-item.style-2 .text-slider {
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   font-size: 60px;
   color: var(--header);
   margin-right: 40px;
@@ -4902,7 +4902,7 @@ span {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   border-bottom: 1px solid var(--border) !important;
   border: none;
 }
@@ -5291,7 +5291,7 @@ span {
   font-weight: 500;
   background: var(--white);
   margin-right: 5px;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   margin-bottom: 10px;
   transition: all 0.4s ease-in-out;
 }
@@ -5348,7 +5348,7 @@ span {
 .news-details-area .blog-post-details .single-blog-post .post-content .hilight-text p {
   max-width: 650px;
   font-weight: 500;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   font-style: italic;
   line-height: 26px;
 }
@@ -5371,7 +5371,7 @@ span {
   line-height: 1;
   background: var(--bg);
   margin-right: 8px;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   font-weight: 500;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
@@ -5581,7 +5581,7 @@ span {
   font-weight: 600;
   padding: 24px 40px;
   border-radius: 0;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   transition: all 0.3s ease-in-out;
   position: relative;
   line-height: 1;
@@ -5668,7 +5668,7 @@ span {
   border-radius: 6px;
   font-weight: 600;
   font-size: 15px;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   color: var(--header);
   transition: all 0.3s ease-in-out;
   border: 1px solid var(--border);
@@ -5852,7 +5852,7 @@ span {
   height: 70px;
   border: 0;
   padding: 0 50px;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
   background: transparent;
   font-size: 25px;
   color: var(--theme);
@@ -6303,7 +6303,7 @@ input.main-search-input::placeholder {
   color: var(--theme);
   font-weight: 700;
   margin-bottom: 0;
-  text-transform: capitalize;
+  /*text-transform: capitalize*/;
 }
 
 .section-title-area {
